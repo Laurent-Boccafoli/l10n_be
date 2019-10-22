@@ -9,7 +9,7 @@
   id: "102"
   abbr: WBR
 
-- name: Brussels Capitat Region
+- name: Brussels-Capital Region
   country_id: "20"
   id: "103"
   abbr: BCR
@@ -24,7 +24,7 @@
   id: "105"
   abbr: WLG
 
-- name: Limburg
+- name: Limbourg
   country_id: "20"
   id: "106"
   abbr: VLI
